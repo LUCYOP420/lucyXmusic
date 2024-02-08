@@ -1,7 +1,7 @@
 {
     "name": "LUCY Music Bot",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/a3cea7979f3881bdf3aed.jpg",
+    "logo": "https://telegra.ph/file/ec4abf5a9defbc308b4c6.jpg",
     "keywords": [
     "python3",
     "telegram",
