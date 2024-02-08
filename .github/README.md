@@ -9,10 +9,6 @@
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
 
-<p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
-</p>
-
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
