@@ -37,4 +37,4 @@
 
 ### Deploy To heroku
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/LUCYOP420/lucyXmusic) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/LUCYOP420/lucyXmusic]_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ LUCY](https://github.com/LUCYOP420/lucyXmusic) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/LUCYOP420/lucyXmusic]_ </b>
